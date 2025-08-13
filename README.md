@@ -1,9 +1,9 @@
 # Hi there, I'm Sunil Pradhan! 👋
 
-🚀 Passionate Frontend Developer specializing in React ecosystem  
-💻 Building interactive, performant web applications 
-🤖 AI Enthusiast 
-🌐 **Open to new opportunities** in React, Next.js, and Redux development
+- 🚀 Passionate Frontend Developer specializing in React ecosystem  
+- 💻 Building interactive, performant web applications 
+- 🤖 AI Enthusiast 
+- 🌐 **Open to new opportunities** in React, Next.js, and Redux development
 
 
 ## 🔧 Technologies & Skills
